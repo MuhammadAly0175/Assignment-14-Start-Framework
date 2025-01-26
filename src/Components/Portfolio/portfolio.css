@@ -1,0 +1,48 @@
+#portfolio_sec {
+    min-height: 80vh !important;
+}
+
+#portfolio_sec h1 {
+    color: rgb(44, 62, 80);
+}
+
+#star_icon {
+    color: rgb(44, 62, 80);
+}
+
+.star_lines2 {
+    height: 4px;
+    width: 80px;
+    background: rgb(44, 62, 80);
+    display: inline-block;
+}
+
+.layer:hover {
+    opacity: 100%;
+    cursor: pointer;
+}
+
+.layer {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0%;
+    background-color: rgba(26, 188, 156, 0.9);
+    transition: 0.5s;
+}
+
+.plus_icon{
+    font-size: 96px;
+}
+
+.show {
+    background-color: rgba(13, 110, 253, 0.25) !important;
+    transition: 0s;
+}
+
+.modal-body {
+    padding: 0px !important;
+    transform: scale(1.2);
+}

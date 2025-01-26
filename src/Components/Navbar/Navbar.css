@@ -1,0 +1,24 @@
+nav {
+    background-color: rgb(44, 62, 80) !important;
+}
+
+a {
+    color: white !important;
+    font-family: "Segoe UI" !important;
+}
+
+#start_framework_anchor {
+    font-size: 32px;
+    font-weight: 700;
+    background-color: transparent !important;
+}
+
+.nav-link {
+    font-weight: 700;
+    width: fit-content;
+    padding: 10px 8px;
+}
+
+.active {
+    background-color: rgb(26, 188, 156) !important;
+}

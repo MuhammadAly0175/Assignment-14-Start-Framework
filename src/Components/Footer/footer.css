@@ -1,0 +1,19 @@
+#footer_section {
+    background-color: rgb(44, 62, 80);
+    padding: 90px 0px;
+}
+
+.footer_card {
+    width: 33%
+}
+
+.footer_icons {
+    margin: 0 3px;
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+#footer2{
+    background-color: rgb(26,37,47);
+}
