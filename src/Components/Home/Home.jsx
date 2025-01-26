@@ -9,7 +9,7 @@ const Home = () => {
     <>
       <section className='d-flex align-items-center justify-content-center flex-column py-4' id='home_sec'>
         <img src={avataaars} alt="person" className='mb-5'/>
-        <h1 className='text-white'>START FRAMEWORKssss</h1>
+        <h1 className='text-white'>START FRAMEWORK</h1>
         <div class='d-flex align-items-center gap-3'>
         <span className='star_lines1'></span>
         <FontAwesomeIcon icon={faStar} className='text-white' />
